@@ -1,0 +1,11 @@
+ini file coba utk konflik
+
+Mencoba menambahkan..namun gagal
+
+<<<<<<< HEAD
+ayo pak, silahkan diedit
+=======
+saya push duluan ya pak..
+
+saya juga push up
+>>>>>>> aa2d27fa43cdb432b561ec892e4cf2fce6e7e189
